@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jpaul0428
+- 👋 Hi, I’m Jacob Paul
 - 👀 I’m interested in Front end web development
 - 🌱 I’m currently learning Javascript!
 - 💞️ I’m looking to collaborate on Bootstrap 5 and Javascript projects!
